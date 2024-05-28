@@ -1,0 +1,15 @@
+Requirement gathering is a six-step process of defining a problem to be solved and documenting how to go about solving that problem. These steps include: identifying stakeholders, establishing goals and objectives, eliciting requirements from the stakeholders, documenting the requirements, analyzing and confirming the requirements, and prioritizing.
+
+Typically, there may be three documents that result from the requirements gathering process: software requirements specification, or SRS, user requirements specification, or URS, and system requirements specification, or SysRS. The most common of these is the software requirements specification. 
+
+The software requirements specification, or SRS, is a document that captures the functionalities that the software should perform and also establishes benchmarks or service levels for its performance.
+
+Parts of an SRS include: A purpose statement that contains the intended use of the SRS, its audience and scope, constraints, assumptions and dependencies, and requirements, which can be sorted into four categories: Functional requirements External Interface requirements System Features Non-functional requirements
+
+Requirements can be classified into four categories. Functional requirements are those that cover the functionalities of the software. 
+
+External requirements are the requirements that address the behavior of the software in relation to external entities such as users and interactions with other hardware or software.
+
+System features are a subset of functional requirements. These are required features for the system to function. 
+
+here are also non-functional requirements such as specifying performance, safety, security, and quality standards. User requirements describe the business need and expectations of the end-users from the software system. 

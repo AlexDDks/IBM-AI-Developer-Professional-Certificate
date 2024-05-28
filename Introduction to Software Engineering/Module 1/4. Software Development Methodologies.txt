@@ -1,0 +1,3 @@
+There are many ways to approach software development. A specific methodology for developing software is commonly used in order to assist the development team to clarify communication among team members and determine how and when the information is shared.
+
+Waterfall, V-shaped and agile

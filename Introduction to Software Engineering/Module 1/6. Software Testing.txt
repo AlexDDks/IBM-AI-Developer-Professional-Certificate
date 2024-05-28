@@ -1,0 +1,26 @@
+Software Testing is the practice of integrating quality checks throughout the software development cycle. The purpose of testing is to check whether the software matches expected requirements and ensure error-free software.
+
+In order to test software, the team writes “test cases.” These test cases are written to verify the functionality of a software application and ensure requirements have been satisfied.
+
+Test cases can be written in different stages of the SDLC and may vary depending on the type of test or the method used to develop the software, such as Agile or waterfall. A test case contains: steps, inputs, data, and the expected corresponding outputs. 
+
+test cases should always be written after requirements are finalized. Software testing helps evaluate the software to identify whether or not the software product meets requirements and is error-free. 
+
+Types of testing can be broadly classified into three categories: Functional testing, Non-Functional testing, and Regression testing 
+
+- Functional testing usually involves black box testing which is a method of testing without looking at source code or internal structure. Functional testing is only concerned with inputs and corresponding outputs of the system under test, The goal is to test the functionality of the application making sure the application is usable and accessible. Functional testing makes sure that when user errors or input edge cases do occur, the software handles those exceptions seamlessly by displaying appropriate error messages.
+
+- Non-functional testing includes testing the application for attributes like performance, security, scalability, and availability. Non-functional testing checks to see if the SUTs non-functional behavior is performing properly.
+Non-functional testing should answer questions like the following: How does the application behave under stress? What happens when many users log in at the same time? Are the instructions in documents and user manuals consistent with the application’s behavior? Does the application behave similarly under different operating systems? How does the application handle disaster recovery? And how secure is the application? 
+
+- Regression testing, also called maintenance testing, confirms that a recent change to the application, such as a bug fix, does not adversely affect already existing functionality. Regression testing should occur when there has been a change in requirements or when defects have been fixed. 
+
+There are four testing levels: unit, integration, system, and acceptance: Each level occurs at a different time in the SDLC. There are 4 different levels in order to reduce the amount of time spent on testing by preventing overlap
+
+- Unit testing refers to tests that verify the functionality of a specific section of code, usually at the function level. It is performed by the software developer or engineer during the development phase of the software development life cycle. Unit testing aims to eliminate construction errors before code is integrated with other modules. 
+
+- Integration testing seeks to identify errors when two or more smaller, independent code modules are combined. Integration testing is another type of black-box testing. Prior to integration testing, smaller, independent code modules that passed unit testing are incorporated into the larger software application. Integration testing exposes bugs that occur when those smaller units of code interact with each other. 
+
+- System testing occurs after integration testing and is conducted on a complete, integrated system to evaluate the system's compliance with its specified requirements. It validates the system as a fully completed software product. System testing is both functional and non-functional. System testing is done in a staging environment, which should be similar to the production environment. 
+
+- Acceptance testing is formal testing with respect to user needs, requirements, and business processes. It determines whether a system satisfies the needs of the users, customers, and other stakeholders.
