@@ -1,0 +1,14 @@
+A software stack is a combination of technologies that includes software and programming languages. Developers use a software stack to create applications and solutions such as web and mobile apps. The set of individual technologies is stacked in a hierarchy and work together to support the execution of an application.
+
+The higher levels in the stack provide tasks or services for the user and the lower levels interact with the computer hardware. 
+
+- Include: Front-end technologies such as programming languages, frameworks, and user interface tools. And back-end technologies such as programming languages, frameworks, web servers, app servers, operating systems, messaging applications, and databases. 
+
+The simplest implementation of a software stack consists of a presentation layer, a business logic layer, and a data layer. However, more complex applications use more complex stacks, which could include software for virtualization, scheduling and orchestration, runtime environments, database connectivity, networking, and security. 
+
+There are many different examples of software stacks:
+
+- The Python-Django stack, uses the popular Python programming language alongside the Django web framework.
+- The Ruby on Rails stack, uses the Ruby programming language with a server-side web application framework. Ruby on Rails is great with JSON or XML for data transfer and HTML, CSS, and JavaScript for front-end development. 
+- And the ASP.NET stack includes Microsoft technologies such as the ASP.NET MVC framework, the IIS web server, SQL Server, and Azure. You’ll learn more about the LAMP, MEAN, MEVN, and MERN stacks next.
+- The MEAN stack uses a MongoDB database with an Express.js web application server framework, Angular.js framework for front-end JavaScript development, and the Node.js platform for server-side scripting. The MEAN software and services are platform agnostic, free, and open source.

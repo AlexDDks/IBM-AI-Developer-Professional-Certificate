@@ -1,0 +1,28 @@
+When many developers are working on the same project, knowing what order changes were made, thereby creating a new version of the source code, becomes overridingly important.
+
+Version control systems keep track of what changes were made when and by whom and resolve any conflicts between changes. 
+
+Properly used, it can give you a way to revert to an older version of your code if something goes wrong and gives you some basic information about how the code developed over time. 
+
+Git and GitHub are extremely popular for source code storage and management. Git stores files in repositories where you can track changes, split code into different branches for more focused development, and then merge them back into the main body of code.
+
+--------------------
+
+Libraries are collections of code, like standard programs and subroutines, that you can use within your code. For example, you might want to include a navigational feature, like a carousel – a code library can supply you with the code for that so that you don’t have to spend the time and energy creating one from scratch. Being able to reuse code in this way makes developing your app much quicker and easier. Multiple code libraries can be integrated into your existing project. When you use a code library, you are in control. Code libraries are generally used to solve a specific problem or add a specific feature set. Either way, there are lots for you to choose from, so do your research.
+
+- jQuery is a JavaScript library that simplifies Dom manipulation
+- Email-validator is a small library that checks an email address is correctly constructed and valid. - Apache Commons Proper is a repository of reusable Java components.
+
+-------------------------
+
+Frameworks provide a standard way to build and deploy applications. You can think of a framework as being a skeleton that you can extend by adding your own code, providing a scaffold on which to build your apps. 
+
+Your chosen framework dictates the architecture of your program and controls the program flow. The framework determines which subroutines and methods will be called when. When working with a framework, there is a specific structure that you must follow. The framework calls on your code, rather than you calling on the framework.
+
+To use an analogy, if you are a carpenter building a house, the framework is the frame that you add to – bricks on the outside, plasterboard on the inside, and so on. The frame acts as a guide for how the house is constructed.
+
+- AngularJS is a JavaScript-based framework for dynamic web applications.
+- Vue.js is a JavaScript framework focused on the user interface.
+- Django is a framework that uses Python for web development.
+
+When using a framework, it can sometimes feel like you, as a developer, are not in full control of the development process. This sense of the framework and its predefined workflow controlling the development process is referred to as inversion of control. Frameworks that have a lot of control are known as opinionated – they have opinions on how their workflow should be used and remove a lot of the decisions you would otherwise have to make about how code is written, the location of files, and even file names. Frameworks often include their own libraries, which they call when needed.
