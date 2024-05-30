@@ -1,0 +1,13 @@
+A back-end developer creates and manages all the resources that are needed to respond to the requests that the user makes through the client. The back-end developers tasks focus on enabling this server infrastructure or back-end to process requests, supply data, and provide other services securely.
+
+When you're shopping online, what happens to the data you enter? Your login information, your product searches, your payment info. The back-end processes all of these things. The back-end developers write and maintain the parts of the application that process the inputs. 
+
+To facilitate this, a back-end developer must understand the language that the web application uses, how to query the database for the correct data, and how to bring the two together. Even a simple task like navigating around the site can require the skills of a back-end developer.
+
+To perform all this back-end development, you will need to be familiar with at least one back-end language and its associated frameworks. Among the most popular languages today is JavaScript, which was originally designed to run in web browsers, adding extra interactivity and dynamic content to web pages. JavaScript is also being used on the back-end with new releases adding server-side functionality. JavaScript has many frameworks, but two of the most well-known are Node.js and Express.
+
+Python is another popular language. It's very flexible and easy to learn. Python has wide functionality. It can be used for everything from creating webpages to connecting to a database, to performing data analysis. Two well-known Python frameworks are Django and Flask.
+
+Back-end developers often work with data and databases. You will also benefit from learning some SQL. 
+
+To help handle requests from databases, back-end developers can use object relational mapping tools or ORM to connect to the databases and retrieve the correct data. Although an ORM can hide some of the complexity of querying databases, it's useful to understand the fundamentals of databases so that you can troubleshoot any issues that arise. 

@@ -1,0 +1,15 @@
+When you explore an online shopping website, navigating through pages, choosing different product categories, or comparing products, you are interacting with the front-end of a website. 
+
+To create a website, web developers usually use Hypertext Markup Language (HTML), Cascading Style Sheets (CSS) and JavaScript. These languages are designed to work in conjunction with each other. 
+
+JavaScript is an object-oriented programming language that is used in conjunction with HTML and CSS to add interactivity to a website. For example, you use HTML to add a login button to a page, and CSS to style that button. You then use JavaScript to add log-in functionality to that button. 
+
+A new front-end development language is Syntactically Awesome Style Sheets (SASS) called SAAS. It is an extension of CSS that is compatible with all versions of CSS. SASS enables you to use things like variables, nested rules, and inline imports to keep things organized.
+
+Another language that is being used now is Learner Style Sheets (LESS) or LESS. LESS enhances CSS, adding more styles and functions. It is backwards compatible with CSS.
+
+Reactive or adaptive websites display the version of the website designed for a specific screen size. For example, a website can provide more information if opened on a PC than when opened on a mobile device. Responsive design of a website means that it will automatically resize to the device it is being accessed from.
+
+A JavaScript framework is an application framework that is written in JavaScript. Programmers can manipulate the different functions, use them wherever required and can create device responsive applications. A few examples of several frameworks being used are: Angular framework: an open-source framework being maintained by Google. Angular frameworks allow websites to render the HTML pages quickly and efficiently. It has built-in tools for routing and form validation. 
+
+React.js has been developed and maintained by Facebook. It is a JavaScript library that builds and renders components for a web page. It is not a complete suite of tools. For example, routing is not a part of this framework and will need to be added using a third-party tool.
