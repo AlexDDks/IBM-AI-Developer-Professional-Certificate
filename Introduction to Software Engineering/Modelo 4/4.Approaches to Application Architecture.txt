@@ -1,0 +1,21 @@
+A component is an individual unit of encapsulated functionality that serves as a part of an application in conjunction with other components. There are six characteristics of components. Components should be reusable, replaceable, independent, extensible, encapsulated, and non-context specific.
+
+- Reusable implies that components should be designed such that they can be reused in different applications. 
+
+- Replaceable means that a component should be easily replaced with another component. 
+
+- Independent means the component should be designed so it doesn’t have dependencies on other components.
+
+- Extensibility entails the ability to add behavior to a component without changing other components. 
+
+- Encapsulation consists of bundling a component’s data and methods to hide its internal state, so it doesn’t expose its specific implementation.
+
+- Creating a component that is non-context-specific involves designing it so it operates in different environments.
+
+a component could be an open-source API that connects a system to a particular database. A component can also be the interface for a database, called a data access object, that switches the user to a different database without the application knowing about the switch.
+
+And a controller is a type of component that determines which other components need to be called for a particular event. It controls the flow of data between two other components.
+
+Now a node is any device on a network that can recognize, process, and transmit data to other nodes on the network. 
+
+- Components are reusable, independent, replaceable, extensible, encapsulated, and non-context specific. Component-based architecture is the decomposition of the system into logical independent components. Services are made of components and components consist of objects. Services are deployed independently and can be reused by multiple systems. In an SOA services are loosely coupled and interface with each other via a communication protocol over a network. And lastly, distributed systems run on multiple services on different machines and they appear to the end-user as a single coherent system .

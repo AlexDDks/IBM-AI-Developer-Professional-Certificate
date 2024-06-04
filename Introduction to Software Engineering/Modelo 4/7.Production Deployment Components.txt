@@ -1,0 +1,15 @@
+A high availability replica of the database is often also used to ensure reliability.
+
+A firewall is a security device that monitors traffic between networks. It permits or blocks requested data based on a set of security rules. It acts as a barrier between networks to block viruses, malware, and hackers from accessing the internal network.
+
+The purpose of load balancers is to distribute network traffic efficiently amongst multiple servers, called a server farm, on a network. Load balancers are used to prevent server traffic overload and are located between clients and the servers. A load balancer determines which servers are capable of fulfilling those requirements in a manner that maximizes availability and responsiveness.
+
+Web and application servers are either software or machines that provides services, resources, data, or applications to another computer program, called the client.
+
+Servers store, process, and manage network data, devices, and systems. A web server delivers content such as web pages, files, images, and videos to a client.
+
+An app server is a server that runs business logic and provides the application to the client rather than the client running the app on their own machine.
+
+A proxy server is an intermediate server that sits in between two tiers and handles requests between those tiers. A proxy server can serve multiple purposes such as load balancing, system optimization, caching, acting as a firewall, obscuring the source of the request, encryption, scanning for malware, and more. And a proxy server can improve the efficiency, privacy, and security of data flowing through a network.
+
+Finally, a database is a collection of related data, stored on a computer that can be accessed in various ways. A database is usually controlled by software called a database management system or DBMS. The DBMS controls a database by connecting the database to users or other programs. The database server controls the flow and storage of data.

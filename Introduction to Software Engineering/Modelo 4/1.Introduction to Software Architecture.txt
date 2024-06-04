@@ -1,0 +1,15 @@
+Software design and documentation take place during the design phase of the SDLC. Software architecture, simply put, is the organization of the system. Software architecture serves as a blueprint for the software system that the programmers use to develop the interacting components of the software. 
+
+The architecture comprises the fundamental structures of a software system and explains the behavior of that system. The architecture defines how components should interact with each other, the operating environment, and the principles used to design the software. The software architecture captures early design decisions that are often costly to change once implemented. 
+
+A software’s architecture addresses non-functional aspects of the application such as performance, scalability, maintainability, interoperability, security, and manageability. 
+
+Much like blueprints communicate design decisions to the builders of a house, there are also several artifacts produced during the architectural design phase that are used to communicate the software design to the stakeholders. These artifacts include a software design document, or SDD, an architectural diagram, and unified modeling language, or UML, diagrams. 
+
+- The SDD is a collection of technical specifications that indicate how the design should be implemented. It provides a functional description of the software and design considerations such as assumptions, dependencies, constraints, requirements, objectives, and methodologies.
+
+-  The architectural diagram displays components, their interactions, their constraints, and their confines. It displays the architectural patterns used in the design. Architectural patterns are general, reusable solutions to commonly occurring problems
+
+- UML diagrams are diagrams that communicate structure and behavior using common programming language agnostic notation.
+
+The architecture drives choices about the environment in which the software is released. 

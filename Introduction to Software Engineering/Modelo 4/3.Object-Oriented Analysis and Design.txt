@@ -1,0 +1,5 @@
+Object-oriented analysis and design, or OOAD for short, is an approach for analyzing and designing a software system when the system will use object-oriented programming languages to develop it.
+
+At the heart of OOAD are objects. Objects contain data, and they also have behaviors that prescribe the actions the object can take. 
+
+Class diagrams are commonly used to communicate a software system’s structure in OOAD. The class diagram shows how the classes in an object-oriented design relate to one another. Each box represents a class and shows its attributes. 

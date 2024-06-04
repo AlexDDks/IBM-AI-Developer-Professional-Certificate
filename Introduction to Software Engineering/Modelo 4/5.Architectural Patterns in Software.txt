@@ -1,0 +1,15 @@
+An architectural pattern is a repeatable solution to a problem in software architecture.  We will discuss 2-tier, 3-tier, peer-to-peer, event-driven, and microservices.
+
+- The 2-tier architecture, also called client-server, is a computing model in which the server hosts, delivers, and manages most of the resources and services delivered to the client. The interface resides on the client machine and makes requests to a server for data or services.
+
+- A 3-tier architecture, or an n-tier architecture when there are more than three layers, is the most common software architecture. The 3-tier architecture is composed of several horizontal tiers that function together as a single unit of software. A tier only communicates with other tiers located directly above and below it. Related components are placed within the same tier. Changes in one tier do not affect the other tier. The 3-tier architecture organizes applications into three logical and physical computing tiers: the presentation tier, or user interface the middle tier which is usually the application tier, is where business logic is processed the data tier, where the data is stored and managed
+
+- The peer-to-peer architecture, or P2P for short, consists of a decentralized network of nodes that are both clients and servers. The workload is partitioned among these nodes. Peers make a portion of their resources directly available to other network participants, without the need for central coordination by servers
+
+- Microservices are an approach to building an application that breaks its functionality into modular components called services. An application programming interface, also called an API, is the part of an application that communicates with other applications. An API defines how two applications share and modify each other’s data. APIs can be used to create a microservices-based architecture. 
+
+--------------
+
+An event is anything that results in a change of state. An event can be thought of as an action that is triggered by the end-user, such as a mouse click, or another part of the program.
+
+The producer publishes the event to an event router. The router determines which consumer to push the event to. The triggering event generates a message, called an event notification, to the consumer which is listening for the event. 

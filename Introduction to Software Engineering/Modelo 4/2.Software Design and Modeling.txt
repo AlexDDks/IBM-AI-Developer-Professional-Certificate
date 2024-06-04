@@ -1,0 +1,7 @@
+A software system can be construed in terms of structural elements. Structured design conceptualizes a software problem into well-organized smaller solution elements called modules and sub-modules.
+
+UML, which stands for Unified Modeling Language, is a way to visually represent the architecture, design, and implementation of complex software systems. UML is a standardized modeling language that can be used throughout development processes. UML diagrams can be divided into two classes: either structural or behavioral. 
+
+Behavioral models describe what a system does, without explaining how it does it. The overall behavior of a system can be communicated through behavior models. 
+
+The behavior of a system can be explained and represented with the help of a UML diagram called a state transition diagram. The state transition diagram is a collection of states and events that describes the different states that a system has and the events which cause a change of state in the system.
